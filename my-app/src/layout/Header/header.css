@@ -1,0 +1,27 @@
+.menu_h{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    margin-top: 0;
+    min-height: 60px;
+    align-items: center;
+}
+.menu_h li{
+    margin-left: 40px;
+    list-style: none;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.link{
+    color:white;
+    text-decoration: none;
+}
+.link:hover{
+    color: violet;
+    border-bottom: solid violet 1px;
+}

@@ -1,0 +1,13 @@
+.checkboxes{
+    border-top: solid white 1px;
+    border-bottom: solid white 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px 20px;
+    color: blanchedalmond;
+    padding: 8px 0;
+}
+.checkbox{
+   margin: 0 15px;
+}

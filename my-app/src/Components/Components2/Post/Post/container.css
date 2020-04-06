@@ -1,0 +1,14 @@
+.container{
+    background-color: #15202b;
+    color: #4b5965;
+    display: flex;
+    padding: 10px;
+    width: 800px;
+    border: double black 10px;
+}
+.f{
+    display: flexbox;
+}
+.a{
+    display: flex;
+}
