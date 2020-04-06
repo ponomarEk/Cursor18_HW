@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cursor18_HW/static/css/main.352c90a9.chunk.css",
+    "main.js": "/Cursor18_HW/static/js/main.10dcc893.chunk.js",
+    "main.js.map": "/Cursor18_HW/static/js/main.10dcc893.chunk.js.map",
+    "runtime-main.js": "/Cursor18_HW/static/js/runtime-main.861cd727.js",
+    "runtime-main.js.map": "/Cursor18_HW/static/js/runtime-main.861cd727.js.map",
+    "static/js/2.78494c07.chunk.js": "/Cursor18_HW/static/js/2.78494c07.chunk.js",
+    "static/js/2.78494c07.chunk.js.map": "/Cursor18_HW/static/js/2.78494c07.chunk.js.map",
+    "index.html": "/Cursor18_HW/index.html",
+    "precache-manifest.767ecd9add17201041208e5bd8dce882.js": "/Cursor18_HW/precache-manifest.767ecd9add17201041208e5bd8dce882.js",
+    "service-worker.js": "/Cursor18_HW/service-worker.js",
+    "static/css/main.352c90a9.chunk.css.map": "/Cursor18_HW/static/css/main.352c90a9.chunk.css.map",
+    "static/js/2.78494c07.chunk.js.LICENSE.txt": "/Cursor18_HW/static/js/2.78494c07.chunk.js.LICENSE.txt",
+    "static/media/01e81a35e0d119aed42d2fb15ae6d7e5.jpg": "/Cursor18_HW/static/media/01e81a35e0d119aed42d2fb15ae6d7e5.72c941bd.jpg",
+    "static/media/32_1920_1200_beautypic.ru.jpg": "/Cursor18_HW/static/media/32_1920_1200_beautypic.ru.ef3a4185.jpg",
+    "static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.jpg": "/Cursor18_HW/static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.783bc1bd.jpg",
+    "static/media/unnamed.jpg": "/Cursor18_HW/static/media/unnamed.88c0f6ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.861cd727.js",
+    "static/js/2.78494c07.chunk.js",
+    "static/css/main.352c90a9.chunk.css",
+    "static/js/main.10dcc893.chunk.js"
+  ]
+}
